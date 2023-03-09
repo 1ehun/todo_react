@@ -1,0 +1,20 @@
+.myInput {
+    width: 80%;
+    padding: 5px 15px;
+    margin: 5px 0;
+    border: 1px solid black;
+}
+
+.App {
+    align-items: center;
+}
+
+.button_Add {
+    margin-left: 15px;
+    padding: 5px 15px;
+    color: teal;
+    font-size: 14px;
+    background: transparent;
+    border: 1px solid teal;
+    cursor: pointer;
+}

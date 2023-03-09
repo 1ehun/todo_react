@@ -1,0 +1,6 @@
+.todo-task {
+    margin-top: 5px;
+    display: flex;
+    padding: 15px;
+    border: 2px solid teal;
+}
