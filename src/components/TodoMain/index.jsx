@@ -23,7 +23,7 @@ const TodoMain = (props) => {
                 status: TASK_STATUSES.todo 
             }
         ])
-        // console.log(taskList)
+         console.log(taskList)
     }
 
     return (
@@ -33,6 +33,7 @@ const TodoMain = (props) => {
             />
             <TodoDesk 
             taskListProp={taskList}
+            taskListPropSet={setTaskList}
             />
         </div>
     )
